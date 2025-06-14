@@ -27,18 +27,7 @@ Cette application Android permet de calculer l'Indice de Masse Corporelle (IMC) 
 
 ## 🧱 Structure du projet
 
-├── res\
-│ ├── layout\
-│ │ └── activity_main.xml  
-│ ├── drawable\
-│ │ ├── imc \\ 
-│ │ ├── maigre \\
-│ │ ├── normal \\
-│ │ ├── surpoids \\
-│ │ └── tobese \\ 
-├── java/ma/enset/app_calcule_imc \\
-│ └── MainActivity \\ 
-└── AndroidManifest
+<pre><code> ├── res │ ├── layout │ │ └── activity_main.xml │ ├── drawable │ │ ├── imc.png │ │ ├── maigre.png │ │ ├── normal.png │ │ ├── surpoids.png │ │ └── tobese.png ├── java │ └── ma │ └── enset │ └── app_calcule_imc │ └── MainActivity.kt └── AndroidManifest.xml </code></pre>
 
 
 ## 🧪 Test
